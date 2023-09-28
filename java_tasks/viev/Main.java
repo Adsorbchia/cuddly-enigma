@@ -1,4 +1,4 @@
-package java_tasks.viev;
+package java_tasks.view;
 
 import java_tasks.controller.AnimalController;
 
